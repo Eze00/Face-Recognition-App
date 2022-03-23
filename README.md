@@ -1,4 +1,4 @@
-# CSE546Project1
+#Project1
 
 Ezedine Kargougou, Tanner Greenhagen, Mark Pop
 
